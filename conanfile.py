@@ -15,7 +15,7 @@ class ZiplibConan(ConanFile):
         "shared": [True, False],
     }
     default_options = {
-        "shared": True,
+        "shared": False,
     }
     exports_sources = "CMakeLists.txt"
     _source_subfolder = "ziplib"

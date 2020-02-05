@@ -1,1 +1,1 @@
-## Conan package recipe for [ziplib]https://bitbucket.org/wbenny/ziplib)
+## Conan package recipe for [ziplib](https://bitbucket.org/wbenny/ziplib)
